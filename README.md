@@ -1,5 +1,5 @@
 # AtliQ Hospitality Analysis - PowerBI
-[Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGJhYjBjNjUtMzFhNi00NjQwLWE2NTQtMzlmZWI5ZWRjODA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) | [Presentation](https://youtu.be/qRkdEI8RX4A) | [LinkedIn Post](https://www.linkedin.com/posts/deepakyadav19_dataanalytics-powerbi-businessinsights-activity-7266417046152728576-PSSO?utm_source=share&utm_medium=member_desktop)
+[Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGJhYjBjNjUtMzFhNi00NjQwLWE2NTQtMzlmZWI5ZWRjODA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) | [Presentation](https://youtu.be/TAFoYUdBDGg) | [LinkedIn Post](https://www.linkedin.com/posts/deepakyadav19_dataanalytics-powerbi-businessinsights-activity-7266417046152728576-PSSO?utm_source=share&utm_medium=member_desktop)
 
 
 ## Problem statement
